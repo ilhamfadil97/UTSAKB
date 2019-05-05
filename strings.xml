@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MYSIMPLEAPP</string>
+    <string name="title_activity_welcome">welcome</string>
+    <string name="tittle_home">Home</string>
+    <string name="tittle_daily">Daily Activity</string>
+    <string name="tittle_gallery">Gallery</string>
+    <string name="tittle_music">Music Favorite Video </string>
+    <string name="tittle_profile">Profile </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="txthome_nama">Nama          : Ilham Fadil Azmi</string>
+    <string name="txthome_desc">Deskripsi     : Seorang pekerja keras dan pecinta kopi</string>
+    <string name="txthome_hobby">Hobby        : music and sport                       </string>
+    <string name="txthome_interest">Interest  : Game, Movie, Food, Coffee, Cat  </string>
+    <string name="txthome_cita">Cita cita     : Owner of a Company               </string>
+</resources>
